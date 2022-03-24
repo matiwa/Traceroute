@@ -1,0 +1,14 @@
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\bin\Debug\Traceroute.exe
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\bin\Debug\Traceroute.pdb
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.csprojAssemblyReference.cache
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\MainWindow.g.cs
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\App.g.cs
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute_MarkupCompile.cache
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute_MarkupCompile.lref
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\MainWindow.baml
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.g.resources
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.Properties.Resources.resources
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.csproj.GenerateResource.cache
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.csproj.CoreCompileInputs.cache
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.exe
+C:\Users\matiwa\source\repos\Traceroute\Traceroute\obj\Debug\Traceroute.pdb

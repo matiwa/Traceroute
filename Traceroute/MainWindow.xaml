@@ -1,0 +1,16 @@
+﻿<Window x:Class="Traceroute.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Traceroute"
+        mc:Ignorable="d"
+        Title="Traceroute" Height="730" Width="540">
+    <Grid>
+        <Button x:Name="SendButton" Content="Send" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="SendButton_Click"/>
+        <ListBox x:Name="outlist" HorizontalAlignment="Left" Height="640" Margin="10,44,0,0" VerticalAlignment="Top" Width="500" RenderTransformOrigin="0.5,0.5"/>
+        <TextBox x:Name="addresslist" HorizontalAlignment="Left" Height="23" Margin="90,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="222"/>
+        <Button x:Name="BExit" Content="Exit" HorizontalAlignment="Left" Margin="329,7,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.12,0.3" Click="BExit_Click"/>
+
+    </Grid>
+</Window>
